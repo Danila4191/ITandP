@@ -10,3 +10,26 @@
 2.Использовать Git для версионирования кода.​
 
 3.Развернуть FastAPI-сервис для получения предсказаний.
+
+ 
+**Библиотеки**
+
+1. pandas
+
+2. numpy
+
+3. sklearn
+
+4. xgboost
+
+5. joblib
+
+6. io
+
+7. fastApi
+
+8. ngrok
+
+
+
+Ссылка репозитория проекта https://github.com/Danila4191/ITandP
